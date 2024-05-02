@@ -1,0 +1,10 @@
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_RTL\WhatsAppIntegration_git\WhatsAppIntegration\bin\Debug\WhatsAppIntegration_RTL.exe.config
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_RTL\WhatsAppIntegration_git\WhatsAppIntegration\bin\Debug\WhatsAppIntegration_RTL.exe
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_RTL\WhatsAppIntegration_git\WhatsAppIntegration\bin\Debug\WhatsAppIntegration_RTL.pdb
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_RTL\WhatsAppIntegration_git\WhatsAppIntegration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_RTL\WhatsAppIntegration_git\WhatsAppIntegration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_RTL\WhatsAppIntegration_git\WhatsAppIntegration\obj\Debug\WhatsAppIntegration_RTL.csproj.AssemblyReference.cache
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_RTL\WhatsAppIntegration_git\WhatsAppIntegration\obj\Debug\WhatsAppIntegration_RTL.csproj.CoreCompileInputs.cache
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_RTL\WhatsAppIntegration_git\WhatsAppIntegration\obj\Debug\WhatsAppIntegration_RTL.csproj.CopyComplete
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_RTL\WhatsAppIntegration_git\WhatsAppIntegration\obj\Debug\WhatsAppIntegration_RTL.exe
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_RTL\WhatsAppIntegration_git\WhatsAppIntegration\obj\Debug\WhatsAppIntegration_RTL.pdb
